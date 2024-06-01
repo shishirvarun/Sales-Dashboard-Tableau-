@@ -16,7 +16,7 @@ The purpose of this sales dashboard is to present an overview of key sales metri
 
 # KPI Overview: 
 Summary of total sales and quantity for the current and previous year.
-Sales & Quantity Trends: Monthly KPI analysis for the current and previous year, highlighting months with the highest and lowest sales.
+Sales & Quantity Trends: Monthly KPI analysis for the current and previous year, highlighting the months with the highest and lowest sales.
 Subcategory Comparison: Comparison of sales performance by different subcategories for the current and previous year, including sales and profit comparison.
 Weekly Trends: Weekly sales and profit data for the current year, highlighting weeks that are above and below average.
 Project Structure
